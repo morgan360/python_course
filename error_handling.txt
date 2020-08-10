@@ -1,0 +1,1 @@
+Error handling is a science in itself. If you are writing commercial software, then Try/Except blocks need to be used extensivaly and judiciously.
